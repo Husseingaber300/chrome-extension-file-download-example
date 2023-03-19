@@ -1,6 +1,6 @@
 {
   "name": "File Downloader sample",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "1.0.0",
   "content_scripts": [
     {
